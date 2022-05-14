@@ -1,0 +1,28 @@
+.card {
+  width: 30%;
+  display: flex;
+  flex-direction: column;
+  border: 1px solid red;
+  align-content: center;
+  margin: 0 auto;
+}
+
+.card-header {
+  height: 30%;
+  background: #5d6770;
+  color: white;
+  text-align: center;
+}
+
+.card-header h4 {
+  font-size: 20px;
+}
+
+.container {
+  padding: 4px 16px;
+  text-align: left;
+}
+
+strong {
+  padding-bottom: 5px;
+}
